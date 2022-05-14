@@ -1,0 +1,6 @@
+.hi filter=lfs diff=lfs merge=lfs -text
+.en filter=lfs diff=lfs merge=lfs -text
+. filter=lfs diff=lfs merge=lfs -text
+*.hi filter=lfs diff=lfs merge=lfs -text
+*.en filter=lfs diff=lfs merge=lfs -text
+*. filter=lfs diff=lfs merge=lfs -text
